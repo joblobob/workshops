@@ -1,1 +1,3 @@
 # workshops
+
+[modules](modules.md)
