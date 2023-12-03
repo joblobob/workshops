@@ -15,6 +15,7 @@ Atelier interactif d'introduction aux modules.
 
 ### Comment convertir une application existante
 
+https://godbolt.org/z/f85Y7o3T3
 
 #### Références
 
