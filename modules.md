@@ -28,3 +28,5 @@ https://www.kitware.com/import-cmake-the-experiment-is-over/
 https://vector-of-bool.github.io/2019/03/10/modules-1.html
 
 https://clang.llvm.org/docs/StandardCPlusPlusModules.html
+
+https://thecodehound.com/modules-in-c20/
