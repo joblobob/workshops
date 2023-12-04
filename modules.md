@@ -7,6 +7,8 @@ Atelier interactif d'introduction aux modules.
 
 ### Les modules avec CMake
 
+https://godbolt.org/z/377vxxPvv
+
 ### Notre premier module!
 
 ### Séparation de la déclaration et la définition
