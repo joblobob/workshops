@@ -15,6 +15,8 @@ https://godbolt.org/z/377vxxPvv
 
 ### Comment importer un include récalcitrant
 
+1 - https://godbolt.org/z/MYM9Kvfh9
+
 ### Comment convertir une application existante
 
 1 - https://godbolt.org/z/f85Y7o3T3
