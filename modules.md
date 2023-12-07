@@ -6,8 +6,8 @@ Atelier interactif d'introduction aux modules.
 ### Intro sur les modules
 
 ### Les modules avec CMake
-
-https://godbolt.org/z/377vxxPvv
+0 - https://godbolt.org/z/9nT7G5xaG
+1 - https://godbolt.org/z/377vxxPvv
 
 ### Notre premier module!
 
