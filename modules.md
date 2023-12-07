@@ -21,7 +21,7 @@ https://godbolt.org/z/377vxxPvv
 
 0 - https://godbolt.org/z/oWYGdoxb9
 
-1 - https://godbolt.org/z/f85Y7o3T3
+1 - https://godbolt.org/z/d1oT7WEsj
 
 2 - https://godbolt.org/z/xnTc7sK6f
 
