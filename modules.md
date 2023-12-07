@@ -14,9 +14,7 @@ Atelier interactif d'introduction aux modules.
 
 ### Séparation de la déclaration et la définition
 
-### Comment importer un include récalcitrant
 
-1 - https://godbolt.org/z/MYM9Kvfh9
 
 ### Comment convertir une application existante
 
@@ -25,6 +23,12 @@ Atelier interactif d'introduction aux modules.
 1 - https://godbolt.org/z/d1oT7WEsj
 
 2 - https://godbolt.org/z/xnTc7sK6f
+
+### Comment importer un include récalcitrant
+
+0 - https://godbolt.org/z/fvarzc8oj
+
+1 - https://godbolt.org/z/Gno1KexY1
 
 #### Références
 
