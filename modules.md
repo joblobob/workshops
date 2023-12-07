@@ -29,6 +29,10 @@ Atelier interactif d'introduction aux modules.
 
 1 - https://godbolt.org/z/Gno1KexY1
 
+## On s'amuse!
+
+https://godbolt.org/z/jxT9eP6K1
+
 #### Références
 
 https://www.kitware.com/import-cmake-c20-modules/
