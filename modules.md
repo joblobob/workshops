@@ -6,19 +6,18 @@ Atelier interactif d'introduction aux modules.
 ### Intro sur les modules
 
 ### Les modules avec CMake
-0 - https://godbolt.org/z/9nT7G5xaG
 
-1 - https://godbolt.org/z/377vxxPvv
+0 - https://godbolt.org/z/9nT7G5xaG
 
 ### Notre premier module!
 
-### Séparation de la déclaration et la définition
-
-
+1 - https://godbolt.org/z/377vxxPvv
 
 ### Comment convertir une application existante
 
 0 - https://godbolt.org/z/oWYGdoxb9
+
+### Séparation de la déclaration et la définition
 
 1 - https://godbolt.org/z/d1oT7WEsj
 
